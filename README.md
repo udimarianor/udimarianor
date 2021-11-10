@@ -10,9 +10,9 @@
 ![Html](https://img.shields.io/badge/HTML5-df4b25?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)<br/>
 
 #### Mis redes sociales:
-![https://www.facebook.com/mariano.udi/](https://img.shields.io/badge/Facebook-Mariano_Udi-005F99?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)<br/>
-![https://www.instagram.com/udi.mariano/](https://img.shields.io/badge/Instagram-Mariano_Udi-d5005f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)<br/>
-![www.linkedin.com/in/marianorubenudi/](https://img.shields.io/badge/Linkedin-Mariano_Udi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)<br/>
+[![Facebook](https://img.shields.io/badge/Facebook-Mariano_Udi-005F99?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/mariano.udi/)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-Mariano_Udi-d5005f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/udi.mariano/)<br/>
+[![Linkedin](https://img.shields.io/badge/Linkedin-Mariano_Udi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marianorubenudi/)<br/>
 
 
 
